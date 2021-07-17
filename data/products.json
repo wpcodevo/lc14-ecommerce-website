@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Headphone",
+        "price": "15.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-1.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Keyboard",
+        "price": "99.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-2.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Monitor",
+        "price": "200.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-3.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Coffee",
+        "price": "15.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-4.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Mug",
+        "price": "8.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-5.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Laptop",
+        "price": "999.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-6.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "PS5",
+        "price": "1200.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-7.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Computer",
+        "price": "899.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-8.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Headphone",
+        "price": "200",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-9.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Phone",
+        "price": "799.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-10.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Mouse",
+        "price": "150.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-11.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Laptop",
+        "price": "1500.99",
+        "image": {
+          "fields": { "file": { "url": "./images/products/product-12.jpg" } }
+        }
+      }
+    }
+  ]
+}
